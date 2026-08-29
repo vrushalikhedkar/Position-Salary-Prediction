@@ -28,6 +28,6 @@ A Machine Learning project that predicts **salary based on position level**.
 | Salary | Target Salary |
 
 
-'''text
+```text
 X = Level
 y = Salary
