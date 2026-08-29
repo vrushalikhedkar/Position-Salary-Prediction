@@ -73,3 +73,9 @@ Level⁴
 - Captures non-linear relationships
 - Fits the salary pattern better
 - Performs better than Linear Regression on this dataset
+
+## 📊 Model Evaluation
+
+**Polynomial Regression Results**
+- MSE: ```210,343,822.84```
+- R² Score: ```0.99739```
