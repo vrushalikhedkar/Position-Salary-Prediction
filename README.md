@@ -30,4 +30,20 @@ A Machine Learning project that predicts **salary based on position level**.
 
 ```text
 X = Level
-y = Salary
+y = Salary 
+```
+---
+
+**🔎 EDA**
+The dataset was analyzed using:
+- Dataset inspection
+- info()
+- describe()
+- Missing value check
+- Scatter plot
+
+Observation
+- Salary increases with position level.
+- Salary growth is not constant.
+- The relationship is non-linear.
+
