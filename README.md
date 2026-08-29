@@ -100,15 +100,15 @@ For:
 ```text
 Position Level = 6.5
 ```
-**Predicted Salary**
+**Predicted Salary**<br/>
 **₹158,862.45 approximately**
 
 ## 🏆 Final Result
 
-**Best Model:** Polynomial Regression
-**Degree:** 4
-**R² Score:** 0.99739
-**Predicted Salary:** ₹158,862.45
+**Best Model:** Polynomial Regression<br/>
+**Degree:** 4<br/>
+**R² Score:** 0.99739<br/>
+**Predicted Salary:** ₹158,862.45<br/>
 
 
 **Polynomial Regression was more suitable because the relationship between position level and salary is non-linear.**
