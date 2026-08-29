@@ -106,11 +106,8 @@ Position Level = 6.5
 ## 🏆 Final Result
 
 **Best Model:** Polynomial Regression
-
 **Degree:** 4
-
 **R² Score:** 0.99739
-
 **Predicted Salary:** ₹158,862.45
 
 
