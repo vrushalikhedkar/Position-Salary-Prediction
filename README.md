@@ -79,3 +79,6 @@ Level⁴
 **Polynomial Regression Results**
 - MSE: ```210,343,822.84```
 - R² Score: ```0.99739```
+
+**Lower MSE = Better
+Higher R² = Better**
