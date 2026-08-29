@@ -82,3 +82,5 @@ Level⁴
 
 **Lower MSE = Better**
 
+**Higher R² = Better**
+
