@@ -48,3 +48,9 @@ Observation
 - Salary growth is not constant.
 - The relationship is non-linear.
 
+## 📈 Linear Regression
+
+Linear Regression was used as a baseline model.
+
+```y = mx + c ```
+It represents the relationship using a straight line.
