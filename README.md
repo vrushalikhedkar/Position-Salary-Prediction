@@ -55,3 +55,21 @@ Linear Regression was used as a baseline model.
 ```y = mx + c```
 
 It represents the relationship using a straight line.
+
+## 🧠 Polynomial Regression
+
+Because the relationship is non-linear, Polynomial Regression was used.
+
+For degree 4:
+
+```text
+Level
+Level²
+Level³
+Level⁴
+```
+
+**Why Polynomial Regression?**
+- Captures non-linear relationships
+- Fits the salary pattern better
+- Performs better than Linear Regression on this dataset
