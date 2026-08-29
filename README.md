@@ -52,6 +52,7 @@ Observation
 
 Linear Regression was used as a baseline model.
 
-```y = mx + c ```
+```y = mx + c
+```
 
 It represents the relationship using a straight line.
