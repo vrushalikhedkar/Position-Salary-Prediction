@@ -81,4 +81,4 @@ Level⁴
 - R² Score: ```0.99739```
 
 **Lower MSE = Better**
-**Higher R² = Better**
+
