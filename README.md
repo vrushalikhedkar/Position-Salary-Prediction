@@ -8,7 +8,6 @@
 - Scikit-learn
 - Jupyter Notebook
 
----
 
 ## Project Overview
 
@@ -20,6 +19,7 @@ A Machine Learning project that predicts **salary based on position level**.
 - **Target (y):** Salary
 - **Models:** Linear Regression & Polynomial Regression
 - **Polynomial Degree:** 4
+
 
 <p align="center">
   <img src="Position_Salary_Prediction_Final_Infographic_Under_1MB.jpg" width="1000">
