@@ -62,7 +62,9 @@ Observation
 
 Linear Regression was used as a baseline model.
  
-```y = mx + c```
+```test
+y = mx + c
+```
 
 It represents the relationship using a straight line.
 
@@ -100,7 +102,7 @@ For:
 ```text
 Position Level = 6.5
 ```
-**Predicted Salary**
+**Predicted Salary**<br/>
 **₹158,862.45 approximately**
 
 ## 🏆 Final Result
