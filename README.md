@@ -18,3 +18,11 @@ A Machine Learning project that predicts **salary based on position level**.
 ---
 
 ## 📂 Dataset
+
+**Dataset:** `Position_Salaries.csv`
+
+| Feature | Description |
+|---|---|
+| Position | Employee Designation |
+| Level | Newmerical Position Level |
+| Salary | Target Salary |
