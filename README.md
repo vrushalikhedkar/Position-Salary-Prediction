@@ -90,7 +90,7 @@ Level⁴
 - MSE: ```210,343,822.84```
 - R² Score: ```0.99739```
 
-**Lower MSE = Better**
+**Lower MSE = Better**<br/>
 **Higher R² = Better**
 
 ## 🔮 Prediction
@@ -100,7 +100,7 @@ For:
 ```text
 Position Level = 6.5
 ```
-**Predicted Salary**<br/>
+**Predicted Salary**
 **₹158,862.45 approximately**
 
 ## 🏆 Final Result
