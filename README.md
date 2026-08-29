@@ -34,7 +34,7 @@ y = Salary
 ```
 ---
 
-**🔎 EDA
+##🔎 EDA
 The dataset was analyzed using:
 - Dataset inspection
 - info()
