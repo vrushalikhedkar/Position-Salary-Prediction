@@ -41,7 +41,6 @@ A Machine Learning project that predicts **salary based on position level**.
 X = Level
 y = Salary 
 ```
----
 
 ## 🔎 EDA
 
