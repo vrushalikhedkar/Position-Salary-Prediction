@@ -26,3 +26,8 @@ A Machine Learning project that predicts **salary based on position level**.
 | Position | Employee Designation |
 | Level | Newmerical Position Level |
 | Salary | Target Salary |
+
+
+'''text
+X = Level
+y = Salary
